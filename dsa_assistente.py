@@ -1,4 +1,4 @@
-# EVA AI Coder - Criando Seu Assistente de Programação Python, em Python
+# EVA AI Coder - Seu Assistente de Programação Python, em Python
 
 # Importa módulo para interagir com o sistema operacional
 import os
